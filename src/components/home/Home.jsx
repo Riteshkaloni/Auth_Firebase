@@ -10,9 +10,12 @@ const Home = () => {
             <button type="button">
               Sign Up
             </button>
-          </Link> Click To LogIn</p>
+
+          </Link> Click To LogIn
+          </p>
     </div>
   )
 }
 
 export default Home
+
